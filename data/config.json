@@ -4,7 +4,7 @@
     "provider": "openai",
     "model": "deepseek-v4-flash",
     "base_url": "https://mj.chatgptten.com",
-    "api_key_env": "sk-63JNLzK1IR0LLrj1BLI1lKvDOkRis24UoNNEmbSXdvJGO5bl",
+    "api_key_env": "OPENAI_API_KEY",
     "temperature": 0.3,
     "max_tokens": 8192,
     "languages": [
