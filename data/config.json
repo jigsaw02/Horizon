@@ -2,7 +2,7 @@
   "version": "1.0",
   "ai": {
     "provider": "openai",
-    "model": "deepseek-v4-flash",
+    "model": "gpt-4o-2024-08-06",
     "base_url": "https://mj.chatgptten.com",
     "api_key_env": "OPENAI_API_KEY",
     "temperature": 0.3,
